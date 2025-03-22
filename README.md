@@ -28,7 +28,7 @@ python -m venv myenv
 
 3. Activate virtual environment
 ``` 
-venv/Scripts/activate
+myenv/Scripts/activate
 
 ``` 
 
