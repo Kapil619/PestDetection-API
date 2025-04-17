@@ -7,7 +7,7 @@ import os
 app = Flask(__name__)
 
 # Your Cloud Model API URL (Replace with actual URL)
-MODEL_API_URL = "http://192.168.1.34:5000/predict"
+MODEL_API_URL = "http://65.1.91.195:5000/predict"
 
 STATIC_FOLDER = "static"
 if not os.path.exists(STATIC_FOLDER):
